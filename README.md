@@ -1,0 +1,1 @@
+# Waveshare-s-32-bit-High-Precision-AD-HAT
